@@ -8,7 +8,7 @@ I am particularly interested in Deep Learning for Computer Vision, Large Languag
 [![TikTok](https://img.icons8.com/color/32/tiktok--v1.png)](https://www.tiktok.com/@madotrieuthien)
 
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietnh1009&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
 
 <a href="https://github.com/madotrieuthien/ThietKeWeb_Hiotf_House/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
