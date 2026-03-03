@@ -25,9 +25,5 @@ I am particularly interested in Deep Learning for Computer Vision, Large Languag
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=madotrieuthien&repo=MXH_HIOTFZone&theme=gruvbox" />
 </a>
 
-<a href="#">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
-</a>
 
 
