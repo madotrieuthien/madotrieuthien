@@ -1,0 +1,92 @@
+### WELCOME TO MY PAGE 👋👋👋
+My name is Ma Do Trieu Thien. I am currently a third-year Information Technology student with a strong interest in Artificial Intelligence. I am focusing on learning fundamental concepts in Machine Learning and Deep Learning.
+I am particularly interested in Deep Learning for Computer Vision, Large Language Models (LLMs), and Reinforcement Learning. I am actively building projects to strengthen my practical skills and aiming to become an AI Engineer in the future.<br>
+## 📫 How to reach me: 
+
+[![YouTube](https://img.icons8.com/color/32/youtube-play.png)](https://www.youtube.com/madotrieuthien)
+[![Facebook](https://img.icons8.com/color/32/facebook-new.png)](https://www.facebook.com/madotrieuthien)
+[![TikTok](https://img.icons8.com/color/32/tiktok--v1.png)](https://www.tiktok.com/@madotrieuthien)
+
+
+![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietnh1009&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
+<a href="https://github.com/madotrieuthien/ThietKeWeb_Hiotf_House/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
+</a>    
+<a href="https://github.com/madotrieuthien/QL_QuanCafe_Windows/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=ASCII-generator&theme=merko" />
+</a>
+
+<a href="https://github.com/madotrieuthien/MXH_HIOTFZone/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
+</a>    
+<a href="#">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
+</a>
+
+<a href="#">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
+</a>    
+<a href="#">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
+</a>
+
+<a href="#">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=AirGesture&theme=synthwave" />
+</a>    
+<a href="#">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Yolo-v2-pytorch&theme=highcontrast" />
+</a>
+
+<a href="#">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Hierarchical-attention-networks-pytorch&theme=dracula" />
+</a>    
+<a href="#">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Photomosaic-generator&theme=radical" />
+</a>
+
+<a href="#">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Street-fighter-A3C-ICM-pytorch&theme=merko" />
+</a>    
+<a href="#">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=SSD-pytorch&theme=gruvbox" />
+</a>
+
+<a href="#">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Contra-PPO-pytorch&theme=dark" />
+</a>    
+<a href="#">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Deeplab-pytorch&theme=onedark" />
+</a>
+
+<a href="#">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Character-level-cnn-pytorch&theme=cobalt" />
+</a>    
+<a href="#">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Character-level-cnn-tensorflow&theme=synthwave" />
+</a>
+
+<a href="#">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Very-deep-cnn-pytorch&theme=highcontrast" />
+</a>    
+<a href="#">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Very-deep-cnn-tensorflow&theme=dracula" />
+</a>
