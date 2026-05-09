@@ -7,27 +7,24 @@ I am particularly interested in Deep Learning for Computer Vision, Large Languag
 [![Facebook](https://img.icons8.com/color/32/facebook-new.png)](https://www.facebook.com/madotrieuthien)
 [![TikTok](https://img.icons8.com/color/32/tiktok--v1.png)](https://www.tiktok.com/@madotrieuthien)
 
-
-
-
 <a href="https://github.com/madotrieuthien/ThietKeWeb_Hiotf_House/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=madotrieuthien&repo=ThietKeWeb_Hiotf_House&theme=radical" />
 </a>    
 
-<br>
-
 <a href="https://github.com/madotrieuthien/QL_QuanCafe_Windows/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=madotrieuthien&repo=QL_QuanCafe_Windows&theme=merko" />
-</a>
-
-<br>  
+</a> 
 
 <a href="https://github.com/madotrieuthien/MXH_HIOTFZone/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=madotrieuthien&repo=MXH_HIOTFZone&theme=gruvbox" />
 </a>
 
+<a href="https://github.com/madotrieuthien/TrainingManagementSystem/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=madotrieuthien&repo=TrainingManagementSystem&theme=gruvbox" />
+</a>
 
 
