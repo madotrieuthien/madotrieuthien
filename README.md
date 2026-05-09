@@ -27,4 +27,3 @@ I am particularly interested in Deep Learning for Computer Vision, Large Languag
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=madotrieuthien&repo=TrainingManagementSystem&theme=gruvbox" />
 </a>
 
-
